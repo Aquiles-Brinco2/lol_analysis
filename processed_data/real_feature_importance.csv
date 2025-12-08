@@ -1,0 +1,14 @@
+feature,importance
+Red_UniqueChamps,0.30839226
+Blue_UniqueChamps,0.30709988
+QueueType_Code,0.09775048
+HistWinRate_Diff,0.06340834
+Blue_AvgChampId,0.045762178
+Blue_ChampIdRange,0.037361808
+Blue_HistWinRate,0.032951385
+Red_HistWinRate,0.030193992
+Red_ChampIdRange,0.029293189
+Red_AvgChampId,0.028999513
+Region_Code,0.018787017
+Blue_HasNoChampion,0.0
+Red_HasNoChampion,0.0
